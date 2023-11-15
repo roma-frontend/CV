@@ -253,6 +253,10 @@ p {
         grid-template-columns: repeat(1, 1fr);
     }
 
+    .container .left_Side {
+        padding: 40px;
+    }
+
     .interest ul {
         grid-template-columns: repeat(2, 1fr);
     }
